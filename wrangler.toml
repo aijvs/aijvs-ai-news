@@ -1,9 +1,0 @@
-# Cloudflare Pages 椤圭洰閰嶇疆
-
-name = "aijvs-ai-news"
-compatibility_date = "2024-01-01"
-
-# 鐜鍙橀噺锛堝湪 Cloudflare Pages 鎺у埗鍙拌缃級
-# NODE_VERSION = 20
-# NEXT_PUBLIC_APP_NAME = AI 璧勮鏃ユ姤
-# NEXT_PUBLIC_APP_URL = https://news.aijvs.com
