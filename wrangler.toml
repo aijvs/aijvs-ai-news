@@ -1,14 +1,9 @@
-# Cloudflare Pages 项目配置
-# 用于 wrangler CLI 部署和 CI/CD
+# Cloudflare Pages 椤圭洰閰嶇疆
 
 name = "aijvs-ai-news"
 compatibility_date = "2024-01-01"
 
-# Pages 项目配置
-pages_build_output_dir = ".vercel/output/static"
-
-# 环境变量（在 Cloudflare Pages 控制台设置）
+# 鐜鍙橀噺锛堝湪 Cloudflare Pages 鎺у埗鍙拌缃級
 # NODE_VERSION = 20
-# PNPM_VERSION = 8
-# NEXT_PUBLIC_APP_NAME = AI 资讯日报
+# NEXT_PUBLIC_APP_NAME = AI 璧勮鏃ユ姤
 # NEXT_PUBLIC_APP_URL = https://news.aijvs.com
