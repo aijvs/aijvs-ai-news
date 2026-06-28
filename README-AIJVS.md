@@ -73,5 +73,5 @@ MIT License
 
 ## 致谢
 
-- [PageXHub/next-daily-hot](https://github.com/PageXHub/next-daily-hot) - 原始项目
+- [baiwumm/next-daily-hot](https://github.com/baiwumm/next-daily-hot) - 原始项目
 - [imsyy/DailyHot](https://github.com/imsyy/DailyHot) - 灵感来源
