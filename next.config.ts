@@ -5,8 +5,10 @@ const nextConfig: NextConfig = {
     ignoreBuildErrors: true,
   },
   images: {
-    unoptimized: true, // 禁用 Vercel 图片优化
-  }
+    unoptimized: true,
+  },
+  // Cloudflare Pages 閰嶇疆
+  output: "standalone",
 };
 
 export default nextConfig;
