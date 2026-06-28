@@ -281,13 +281,6 @@ vercel --prod
 - 如有平台方要求移除相关接口，请及时联系我们处理
 - 项目维护者不承担任何直接或间接的损失责任
 
-### 📞 联系方式
-
-如有任何问题或建议，请通过以下方式联系：
-
-- 📧 **邮箱**：[me@baiwumm.com](mailto:me@baiwumm.com)
-- 🐛 **Issues**：[GitHub Issues](https://github.com/baiwumm/next-daily-hot/issues)
-- 💬 **讨论**：[GitHub Discussions](https://github.com/baiwumm/next-daily-hot/discussions)
 
 ## 📄 许可证
 
@@ -305,36 +298,10 @@ vercel --prod
 - [Tailwind CSS](https://tailwindcss.com/) - 优秀的 CSS 框架
 - [HeroUI](https://www.heroui.com/) - 现代化的 Next.js UI 库
 
-### 🌟 赞助商
+---
 
-<div align="center">
-  <h4>🚀 CDN 加速服务由 Tencent EdgeOne 提供</h4>
-  <a href="https://edgeone.ai/zh?from=github" target="_blank">
-    <img src="./public/EdgeOne.png" alt="Tencent EdgeOne" width="200"/>
-  </a>
-  <p><em>亚洲最佳 CDN、边缘和安全解决方案</em></p>
-</div>
 
-### 🏆 贡献者
-
-感谢所有为项目做出贡献的开发者们！
-
-<a href="https://github.com/baiwumm/next-daily-hot/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=baiwumm/next-daily-hot" alt="贡献者"/>
-</a>
 
 ---
 
-## ⭐ Star History
 
-<div align="center">
-  <img src="https://api.star-history.com/svg?repos=baiwumm/next-daily-hot&type=Date" alt="Star History Chart" width="600"/>
-</div>
-
----
-
-<div align="center">
-  <p>如果这个项目对你有帮助，请给它一个 ⭐️</p>
-  <p>Made with ❤️ by <a href="https://github.com/baiwumm">@baiwumm</a></p>
-  <p>© 2025 今日热榜. All rights reserved.</p>
-</div>
